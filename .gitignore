@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+gpt2-folk-tunes/
+finetune_curve.png
+tunesformer_evaluation.png
+*.DS_Store
