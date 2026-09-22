@@ -1,6 +1,6 @@
 # Folk Tune Generator — GPT-2 → TunesFormer
 
-**M.Sc. Advanced Neural Networks · Universität Rostock**
+**M.Sc. Advanced Neural Networks**
 
 Generative model for folk tunes in ABC notation. Progressed from fine-tuning a general-purpose GPT-2 (v1) to using TunesFormer — a Transformer pre-trained specifically on ABC-notation folk music (v2).
 
